@@ -1,0 +1,285 @@
+.contact-g-map
+{
+	width: 100%;
+	height: 400px;
+}
+.usb1{
+	background-image: url('../image/usb1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-position: center;
+	margin-bottom: 100px;
+	text-align: center;
+	padding: 50px ;
+	color: #fff;
+	font-size: 25px;
+	margin: 0px 0px ;
+}
+.usb1 button{
+	background: orange;
+	margin-bottom: 23px;
+	border: 1px solid black;
+
+}
+.usb2{
+	background: url('../image/usb2.jpg');
+	overflow: visible;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-position: center;
+	text-align: center;
+	padding: 23px;
+}
+.usb2 p{
+	text-align: center;
+	margin-bottom: 23px;
+}
+.usb2 button{
+	width: 400px;
+	padding: 10px ;
+	border: 1px solid red;
+	background: #fff;
+}
+.usb2 .container .row col-md-4{
+	margin-bottom: 30px;
+}
+.usb3{
+	background-image: url(../image/usb3.jpg);
+	overflow: visible;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-position: center;
+	text-align: center;
+	padding: 23px;
+	margin-bottom: 0px;
+}
+.usb3 h1{
+	text-align: center;
+	padding: 30px 50px;
+}
+.usb3 .col-md-2 p{
+  padding: 30px;
+}
+.usb3 .content3 p{
+    text-align: center;
+    margin-bottom: 40px;
+    display: block;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.usb4 {
+	background-image: url(../image/usb2.jpg);
+	overflow: visible;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-position: center;
+	text-align: center;
+	padding: 23px;
+}
+.usb5{
+	background-image: url(../image/usb4.jpg);
+	overflow: visible;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-position: center;
+	text-align: center;
+	padding: 23px;
+}
+.usb5 .content-usb5{
+	padding: 50px 50px;
+	color: #fff;
+	margin-bottom: 30px;
+}
+.usb5 .content-usb5 button{
+	background: orange;
+	margin-bottom: 30px;
+	border: 1px solid ;
+	width: 150px;
+}
+.swing1{
+	background: url('../image/usb2.jpg');
+	overflow: visible;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-position: center;
+	padding: 23px;
+}
+.swing1 button{
+	width: 400px;
+	padding: 10px ;
+	border: 1px solid red;
+	background: #fff;
+}
+.swing2{
+    background: url('../image/5.jpg');
+	overflow: visible;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-position: center;
+	padding: 23px;
+}
+.swing2 table{
+	display: table;
+    box-sizing: border-box;
+    border-color: black;
+    font-size: 14px;
+    color: #6d6e70;
+    border-spacing: 0;
+    border-collapse: collapse;
+    width: 500px;
+}
+.swing2 th{
+	background: #002842;
+	color: #fff;
+}
+.swing3{
+	background: url('../image/usb2.jpg');
+	overflow: visible;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-position: center;
+	padding: 23px;
+}
+.swing3 table{
+	display: table;
+    box-sizing: border-box;
+    border-color: gray;
+    font-size: 14px;
+    color: #6d6e70;
+    border-spacing: 0;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    border-spacing: 0;
+}
+.swing3 td{
+	padding: 20px ;
+	margin-bottom: 20px;
+}
+
+.content-swing3 button{
+	background:orange;
+	width: 200px;
+	text-align: center;
+
+}
+.faq1{
+	background: url('../image/faqs.jpg');
+	overflow: visible;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-position: center;
+	padding: 100px;
+}
+.faq1 h2{
+	color: #fff;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.faq1 p{
+	color: #fff;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.faq1 button{
+	text-align: center;
+	background: #fff;
+	color: black;
+	width: 300px;
+	border-radius: 2px 2px 2px 2px;
+}
+.faq2{
+	background: url('../image/usb2.jpg');
+	overflow: visible;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-position: center;
+	padding: 100px;
+}
+.faq2 col-md-4{
+	background: url('../image/usb3.jpg');
+	overflow: visible;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-position: center;
+	padding: 100px;
+}
+.faq2 .thumbnail{
+	background: #F1F0E1;
+}
+.faq3{
+	background: #F1F0E1;
+}
+.faq3 .col-md-6{
+	padding: 0px 50px;
+
+}
+.faq3 a{
+	margin-bottom: 20px;
+	color: black;
+	padding: 5px 0px;
+}
+.faq3 br{
+	padding: 0px 0;
+}
+.search {
+    position: relative;
+    max-width: 610px;
+    margin: 0 auto;
+}
+.faq-usb1{
+	background: url('../image/faqs.jpg');
+	overflow: visible;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-position: center;
+	padding: 100px;
+	color: #fff;
+	text-align: center
+}
+.faq-usb2{
+	margin-top: 0px;
+}
+.faqs1{
+	background: url('../image/usb2.jpg');
+	overflow: visible;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-position: center;
+	padding: 50px 50px 10px 50px;
+	margin-top: 0px;
+}
+.faqs1 button{
+	background: #fff;
+	text-align: center;
+	padding: 5px 20px;
+	margin-bottom: 20px;
+}
+.usb6{
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.img-efect img:hover{
+        transform: scale(1.2);
+}
+.usb8 .thumbnail{
+	
+	text-align: center;
+}
